@@ -1,4 +1,8 @@
-Remember modify the content in these two .txt files, and put the same file names in the Matlab codes file. 
+#### Remember modify the content in these two .txt files, and put the same file names in the Matlab codes file. 
+
+## Popular circuit equivalent battery model 
+
+![微信截图_20171128123519.png](https://steemitimages.com/DQmWeneCsQ2yE8Y4HwndG1ryuP3iY8FRTWAMgg1rNC68zNd/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20171128123519.png)
 
 ## Generating the parameters of model
 
