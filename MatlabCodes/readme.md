@@ -6,4 +6,4 @@ Now, the codes can automatically generate the 2.5 level battery model, which des
 
 #### Deriving 2.5-level circuit equivalent battery model : run Assignment1.m
 
-The other accurate level model will be added soon.
+The other accurate levels model will be added soon.
