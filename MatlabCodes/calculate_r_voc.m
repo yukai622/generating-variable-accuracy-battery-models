@@ -23,7 +23,8 @@ plot(x1440mA,y1440mA,x720mA,y720mA,SOC,Vb1440,'o',SOC,Vb720,'o');
 legend('1440mA','720mA');
 title('SOC Points');
 
+% Remember modify the current values in here according to your data!!!
 for i=1:1/step+1
     R(i)= (Vb720(i)-Vb1440(i))/(2.15-0.43);
-    Voc(i) = Vb1440(i) + R(i)*2.15; %big current value
+    Voc(i) = Vb1440(i) + R(i)*2.15; % Here is the big discharge current value
 end
