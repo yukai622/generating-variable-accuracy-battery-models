@@ -1,5 +1,3 @@
-
-
 clear;
 im_data720mA;
 im_data1440mA;
