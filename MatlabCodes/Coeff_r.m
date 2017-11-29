@@ -23,4 +23,5 @@ ylabel('R');
 %set(gca,'XDir','reverse');
 %hold off
 
-% clear x_r y_r f_r fo_r typ_r fitobject_r;
+%Comment this line if you want to check these values
+clear x_r y_r f_r fo_r typ_r fitobject_r;
