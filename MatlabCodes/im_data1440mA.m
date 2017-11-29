@@ -1,8 +1,5 @@
 %% Import data from text file.
 % Script for importing data from the following text file:
-%
-%    /Users/Breathewind/Documents/aa_MasterCourses/Energy_optimization_for_ES/Lab2014/Lab4/Codes_matlab/Assignment1/1440mA.txt
-%
 % To extend the code to different selected data or a different text file,
 % generate a function instead of a script.
 
