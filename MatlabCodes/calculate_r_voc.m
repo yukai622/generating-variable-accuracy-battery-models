@@ -10,7 +10,7 @@ for i=1:1/step+1
     SOC(i)=(i-1)*step;
     x = SOC(i);
     Vb1440(i)=interp1(x1440mA/x1440mA(end),y1440mA,SOC(i),'linear','extrap');
-%    Vb1440(i)= -5.666e-16*x^5 + 2.632e-12*x^4 - 4.38e-09*x^3 + 3.282e-06*x^2 - 0.001523*x + 4.047;
+%   Vb1440(i)= -5.666e-16*x^5 + 2.632e-12*x^4 - 4.38e-09*x^3 + 3.282e-06*x^2 - 0.001523*x + 4.047;
     Vb720(i)=interp1(x720mA/x720mA(end),y720mA,SOC(i),'linear','extrap');
 end
 
