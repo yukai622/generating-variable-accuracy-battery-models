@@ -20,5 +20,8 @@ set(gca,'XDir','reverse');
 % ylim([3.5 4.5]);
 xlabel('SOC');
 ylabel('VOC');
-%hold off
-% clear x_voc y_voc f_voc fo_voc typ_voc fitobject_voc;
+
+hold off
+
+% Comment this line if you want to check these values
+clear x_voc y_voc f_voc fo_voc typ_voc fitobject_voc;
